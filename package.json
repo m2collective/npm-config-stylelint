@@ -1,47 +1,47 @@
 {
-    "name": "@m2collective/npm-config-stylelint",
-    "type": "module",
-    "version": "0.1.1",
-    "description": "Basic stylelint setting for optimizing styles.",
-    "keywords": [
-        "m2collective",
-        "npm",
-        "config",
-        "stylelint",
-        "front-end",
-        "style",
-        "scss"
-    ],
-    "main": "index.js",
-    "exports": {
-        ".": {
-            "default": "./index.js"
-        }
-    },
-    "license": "MIT",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "dependencies": {
-        "stylelint": "^17.13.0",
-        "stylelint-config-standard-scss": "^17.0.0",
-        "stylelint-order": "^8.1.1",
-        "stylelint-scss": "^7.2.0",
-        "stylelint-selector-bem-pattern": "^5.0.0"
-    },
-    "author": {
-        "name": "bu0nq",
-        "email": "hello@bu0nq.ru"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/m2collective/config-stylelint.git"
-    },
-    "bugs": {
-        "url": "https://github.com/m2collective/config-stylelint/issues"
-    },
-    "homepage": "https://github.com/m2collective/config-stylelint#readme",
-    "publishConfig": {
-        "access": "public"
+  "name": "@m2collective/npm-config-stylelint",
+  "type": "module",
+  "version": "0.1.2",
+  "description": "Basic stylelint setting for optimizing styles.",
+  "keywords": [
+    "m2collective",
+    "npm",
+    "config",
+    "stylelint",
+    "front-end",
+    "style",
+    "scss"
+  ],
+  "main": "index.js",
+  "exports": {
+    ".": {
+      "default": "./index.js"
     }
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "stylelint": "^17.13.0",
+    "stylelint-config-standard-scss": "^17.0.0",
+    "stylelint-order": "^8.1.1",
+    "stylelint-scss": "^7.2.0",
+    "stylelint-selector-bem-pattern": "^5.0.0"
+  },
+  "author": {
+    "name": "bu0nq",
+    "email": "hello@bu0nq.ru"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m2collective/config-stylelint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/m2collective/config-stylelint/issues"
+  },
+  "homepage": "https://github.com/m2collective/config-stylelint#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
