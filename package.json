@@ -1,7 +1,7 @@
 {
   "name": "@m2collective/npm-config-stylelint",
   "type": "module",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Basic stylelint setting for optimizing styles.",
   "keywords": [
     "m2collective",
