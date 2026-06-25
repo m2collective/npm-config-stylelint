@@ -11,7 +11,7 @@ ___
 This package can be deployed automatically using NPM:
 
 ```
-npm i @m2collective/npm-config-stylelint
+npm i @m2collective/npm-config-stylelint --save-dev
 ```
 
 ## Usage
